@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.0'
+gem 'rails', '5.0.0'
 
 
 group :development do 
@@ -9,12 +9,12 @@ group :development do
 end
 
 group :assets do
-	gem 'sass-rails', '4.0.3'
+	gem 'sass-rails', '5.0.5'
 	gem 'uglifier', '2.5.3'
-	gem 'coffee-rails', '4.0.1'
+	gem 'coffee-rails', '4.1.1'
 end
 
-gem 'jquery-rails' , '3.1.2'
+gem 'jquery-rails' , '4.4.0'
 
 gem 'turbolinks', '2.4.0'
 
